@@ -1,2 +1,2 @@
-# DataProjects
-These are my personal Data Projects
+# PythonProjects
+These are my personal Python Projects
